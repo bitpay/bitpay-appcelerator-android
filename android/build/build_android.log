@@ -1,0 +1,24 @@
+
+2019-1-11 11:20:02
+
+Operating System
+  Name                        = Mac OS X
+  Version                     = 10.14.2
+  Architecture                = 64bit
+  # CPUs                      = 12
+  Memory                      = 17179869184
+
+Node.js
+  Node.js Version             = 8.9.1
+  npm Version                 = 5.5.1
+
+Titanium CLI
+  CLI Version                 = 5.1.1
+
+Titanium SDK
+  SDK Version                 = 7.5.0.GA
+  SDK Path                    = /Users/josh/Library/Application Support/Titanium/mobilesdk/osx/7.5.0.GA
+  Target Platform             = android
+
+Command
+  /usr/local/bin/node /Users/josh/.appcelerator/install/7.0.9/package/node_modules/titanium/lib/titanium.js build --platform android --project-dir /Users/josh/Web/modules/bitpay-mobile-android/android --build-only --log-level trace --no-colors --no-progress-bars --no-prompt --no-banner --prompt-type socket-bundle --prompt-port 55441 --config-file /var/folders/d_/5s5ztk0930z4csks1dh0l16c0000gn/T/build-1547223600664.json --no-banner --project-dir /Users/josh/Web/modules/bitpay-mobile-android/android

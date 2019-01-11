@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 4
+architectures: arm64-v8a armeabi-v7a x86
+description: bitpay-mobile-android
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2019 by Your Company
+
+# these should not be edited
+name: bitpay-mobile-android
+moduleid: com.bitpay.mobile
+guid: 1ebc4332-bd1e-4def-8e19-77caa2ca90d9
+platform: android
+minsdk: 7.5.0.GA
